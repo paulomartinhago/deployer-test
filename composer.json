@@ -1,0 +1,10 @@
+{
+    "name": "paulomartinhago/deployer",
+    "authors": [
+        {
+            "name": "Paulo Martinhago",
+            "email": "pmartinhago@gmail.com"
+        }
+    ],
+    "require": {}
+}
